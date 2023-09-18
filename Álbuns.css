@@ -1,0 +1,142 @@
+*{
+    padding: 0 ;
+    margin:  0 ;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: #ffddd2;
+}
+
+footer{
+    background-color:#ffc2d1;
+    font-size: 20px;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: lightpink;
+    font-size: 30px;
+}
+
+.cabecalho{
+    width: 100%;
+    text-decoration: none;
+    display: flex;
+    background-color:#ffc2d1;
+}
+
+li{
+    list-style: none;
+    background-color:#e2fdff;
+}
+
+h1{
+    width: 100%;
+    color: rgb(239, 248, 255);
+    padding-left: 660px;
+    font-size: 55px; 
+}
+
+h3{
+    display: flex;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.p1{
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right:40px;
+    font-size: 28px;
+}
+
+.item1{
+    padding-left: 160px;
+}
+
+.item1:hover{
+    color: #f08080;
+}
+
+.item2{
+    padding-left: 180px;
+
+}
+
+.item2:hover{
+    color: #f08080;
+}
+
+.item3{
+    padding-left: 200px;
+
+}
+
+.item3:hover{
+    color: #f08080;
+}
+
+.item4{
+    padding-left: 230px;
+    padding-right: 243px;
+}
+
+.item4:hover{
+    color: #f08080;
+}
+
+.imagens{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+}
+
+img{
+    width: 650px;
+    height: 450px;
+}
+
+.classe1{
+    color:rgb(245, 66, 161) ;
+    padding-left: 90px;
+    font-size: 35px;
+}
+
+.classe1:hover{
+    color: #c9184a
+}
+
+.classe2{
+    color:rgb(245, 66, 161) ;
+    padding-left: 105px;
+    font-size: 35px;
+}
+
+.classe2:hover{
+    color: #c9184a
+}
+
+.classe3{
+    color:rgb(245, 66, 161) ;
+    padding-left: 130px;
+    font-size: 35px;
+}
+
+.classe3:hover{
+    color: #c9184a
+}
+
+.album-texto{
+    display: flex;
+    padding-bottom: 200px;
+    width: 100%;
+}
+
+p{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
