@@ -42,6 +42,7 @@ p{
 }
 
 footer{
+    background-color:#ffc2d1;
     font-size: 20px;
     padding: 15px;
     margin-top: 40px;
@@ -57,7 +58,7 @@ a{
     width: 100%;
     text-decoration: none;
     display: flex;
-    
+    background-color:#ffc2d1;
 }
 
 li{
@@ -66,16 +67,15 @@ li{
 }
 
 h1{
-    width: 10px;
+    width: 100%;
     color: rgb(239, 248, 255);
     padding-left: 560px;
-    font-size: 100%; 
-    background-color: #ffc2d1;
+    font-size: 55px; 
 }
 
 h3{
     display: flex;
-    padding-top: 0px;
+    padding-top: 15px;
     width: 100%;
 }
 
@@ -113,9 +113,3 @@ h3{
 .item4:hover{
     color: #f08080;
 }
-
-
-
- 
-    
-
