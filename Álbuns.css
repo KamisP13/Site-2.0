@@ -227,16 +227,13 @@ p{
     p {
         padding-top: 75px;
         font-size: 45px;
-
     }
     
-    
-    
     img {
-        width: 30%;
-        height: 10%;
+        width: 500px;
+        height: 500px;
         padding-left: 30px;
-        padding-top: 10px;
+        margin-top: 50px;
     }
 
     .classe1{
@@ -245,19 +242,26 @@ p{
         font-size: 60px;
     }
     
-    
-    
     .classe2{
         color:rgb(245, 66, 161) ;
         padding-left: 105px;
         font-size: 60px;
     }
     
-    
     .classe3{
         color:rgb(245, 66, 161) ;
-        padding-left: 130px;
+        padding-left: 160px;
         font-size: 60px;
+    }
+    
+    .p1{
+        padding-top: 50px;
+        padding-left: 110px;
+        font-size: 40px;
+    }
+
+    .album-texto{
+        width:1800px;
     }
 
 }
