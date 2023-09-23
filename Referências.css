@@ -25,7 +25,7 @@ a{
 li{
     list-style: none;
     background-color:#e2fdff;
-    padding-right: 18px;
+    padding-right: 13px;
 }
 
 h1{
@@ -80,13 +80,13 @@ footer{
     background-color:#ffc2d1;
     font-size: 20px;
     padding: 15px;
+    margin-top: 40px;
 }
 
 p{
     padding-top: 25px;
     font-size: 45px;
     color:rgb(245, 66, 161) ;
-    text-align: center;
 }
 
 .texto li {
@@ -120,129 +120,3 @@ img{
     padding-left: 30px;
     padding-top: 10px;
 }
-
-@media screen and (max-width: 500px){
-
-    body{
-        background-color: #ffddd2;
-    }
-    
-    img{
-        width: 600px;
-        height: 800px;
-        display: flex;
-    }
-
-    .informações{
-        padding-top: 40px;
-        padding-left: 30px;
-        display: flex ;
-        flex-direction: column;
-    }
-    
-    p{
-        padding-top: 60px;
-        font-size: 85px;
-        color:rgb(245, 66, 161) ;
-        text-align: center;
-        padding-left: 500px;
-    }
-    
-    .texto li {
-        font-size:50px ;
-        color: black;
-        margin-left: 60px;
-        padding-left: 25px;
-        padding-right:35px;
-        padding-top: 35px;
-    }
-
-    .Links{
-        display: flex;
-        flex-direction: column;
-    }
-
-    footer{
-        font-size: 30px;
-        background-color: #ffc2d1;
-        margin-right: 0;
-        margin-top: 400px;
-    }
-    
-    a{
-        text-decoration: none;
-        color: lightpink;
-        font-size: 30px;
-    }
-    
-    .cabecalho{
-        width: 100%;
-        text-decoration: none;
-        display: flex;
-        
-    }
-    
-    li{
-        list-style: none;
-        background-color:#e2fdff;
-    }
-    
-    h1{
-        width: 100%;
-        color: rgb(239, 248, 255);
-        padding-left: 400px;
-        font-size: 120px; 
-        background-color: #ffc2d1;
-        height: 70%;
-    }
-    
-    h3{
-        display: flex;
-        padding-top: 0px;
-        width: 100%;
-        font-size: 60px;
-    }
-    
-    .item1{
-        padding-left: 80px;
-        font-size: 50px;
-    }
-    
-    .item1:hover{
-        color: #f08080;
-    }
-    
-    .item2{
-        padding-left: 180px;
-        font-size: 50px;
-    }
-    
-    .item2:hover{
-        color: #f08080;
-    }
-    
-    .item3{
-        padding-left: 180px;
-        font-size: 50px;
-    }
-    
-    .item3:hover{
-        color: #f08080;
-    }
-    
-    .item4{
-        padding-left: 120px;
-        padding-right: 223px;
-        font-size: 50px;
-    }
-    
-    .item4:hover{
-        color: #f08080;
-    }
-    
-    .pesquisa {
-        font-size: 100px;
-        color:rgb(33, 30, 32) ;
-    }
-}
-
