@@ -210,10 +210,11 @@ img{
     
     footer {
         background-color: #ffc2d1;
-        font-size: 20px;
+        font-size: 30px;
         padding: 15px;
         margin-top: 40px;
-        width:1385px;
+        width:2020px;
+        padding-left: 100px;
     }
     
     p {
@@ -225,8 +226,6 @@ img{
     }
     
     img {
-        width: 400px;
-        height:600px;
         padding-left: 80px;
         margin-top: 200px;
     }
@@ -248,9 +247,10 @@ img{
     }
     
     .songs{
-        width: 1800px;
-        height: 500px;
+        width: 600px;
+        height: 600px;
         padding-left: 80px;
+        padding-top: 100px;
     }
 
     .texto1{
@@ -260,7 +260,7 @@ img{
         padding-top: 100px;
     }
 
-    .músicas p{
-    width: 5000px;
+    .músicas {
+    width: 1800px;
     }
 }
