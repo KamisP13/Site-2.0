@@ -42,7 +42,6 @@ p{
 }
 
 footer{
-    
     font-size: 20px;
     padding: 15px;
     margin-top: 40px;
@@ -156,13 +155,14 @@ h3{
         
         .texto-rosa{
             color:rgb(245, 66, 161) ;
+            font-size: 60px;
         }
         
         footer{
-            
             font-size: 60px;
             display: flex;
             background-color: #ffc2d1;
+            margin-right: 0%;
         }
         
         a{
@@ -181,7 +181,6 @@ h3{
         li{
             list-style: none;
             background-color:#e2fdff;
-        ;
         }
         
         h1{
@@ -228,7 +227,7 @@ h3{
         }
         
         .item4{
-            padding-left: 120px;
+            padding-left: 180px;
             padding-right: 223px;
             font-size: 50px;
         }

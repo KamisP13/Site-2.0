@@ -140,3 +140,126 @@ p{
     padding-left: 50px;
 }
 
+@media screen and (max-width: 500px){
+
+    body{
+        background-color: #ffddd2;
+    }
+    
+    div{
+        display: flex;
+    }
+    
+    img{
+        padding-top: 20px;
+        padding-left: 30px;
+        width: 2000%;
+        height: 500%;
+    }
+    
+    .p1{
+        padding-left: 650px;
+        font-size: 60px;
+        padding-top: 0px;
+        display: flex;
+    }
+    
+    p{
+        padding-top: 30px;
+        padding-left: 50px;
+        font-size: 35px;
+    }
+    
+    .imagens{
+        display: flex;
+        flex-direction: column;
+        width: 28%;
+        height: 20%;
+    }
+    
+    .texto-rosa{
+        color:rgb(245, 66, 161) ;
+        font-size: 60px;
+    }
+    
+    footer{
+        font-size: 60px;
+        display: flex;
+        background-color: #ffc2d1;
+        margin-right: 0%;
+    }
+    
+    a{
+        text-decoration: none;
+        color: lightpink;
+        font-size: 30px;
+    }
+    
+    .cabecalho{
+        width: 100%;
+        text-decoration: none;
+        display: flex;
+        
+    }
+    
+    li{
+        list-style: none;
+        background-color:#e2fdff;
+    }
+    
+    h1{
+        width: 100%;
+        color: rgb(239, 248, 255);
+        padding-left: 400px;
+        font-size: 120px; 
+        background-color: #ffc2d1;
+        height: 70%;
+    }
+    
+    h3{
+        display: flex;
+        padding-top: 0px;
+        width: 100%;
+        font-size: 60px;
+    }
+    
+    .item1{
+        padding-left: 80px;
+        font-size: 50px;
+    }
+    
+    .item1:hover{
+        color: #f08080;
+    }
+    
+    .item2{
+        padding-left: 180px;
+        font-size: 50px;
+    }
+    
+    .item2:hover{
+        color: #f08080;
+    }
+    
+    .item3{
+        padding-left: 180px;
+        font-size: 50px;
+    }
+    
+    .item3:hover{
+        color: #f08080;
+    }
+    
+    .item4{
+        padding-left: 120px;
+        padding-right: 223px;
+        font-size: 50px;
+    }
+    
+    .item4:hover{
+        color: #f08080;
+    }
+    
+}
+
+
