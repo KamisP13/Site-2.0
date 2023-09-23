@@ -128,7 +128,7 @@ img{
     
     img{
         width: 3000px;
-        height: 1300px;
+        height: 1200px;
     }
     .informações{
         padding-top: 20px;
@@ -140,6 +140,7 @@ img{
         padding-top: 60px;
         font-size: 45px;
         color:rgb(245, 66, 161) ;
+        text-align: center;
     }
     
     footer{
