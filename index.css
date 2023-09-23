@@ -187,7 +187,7 @@ h3{
         h1{
             width: 100%;
             color: rgb(239, 248, 255);
-            padding-left: 560px;
+            padding-left: 400px;
             font-size: 120px; 
             background-color: #ffc2d1;
             height: 70%;
@@ -197,7 +197,7 @@ h3{
             display: flex;
             padding-top: 0px;
             width: 100%;
-            font-size: 55px;
+            font-size: 60px;
         }
         
         .item1{
