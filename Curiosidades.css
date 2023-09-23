@@ -129,15 +129,20 @@ img{
     img{
         padding-top: 20px;
         padding-left: 30px;
-        width: 500px;
+        width: 600px;
         height: 1000px;
     }
+    .informacoes{
+        width: 100%;
+    }
     
+    .texto{
+        width: 100%;
+    }
     .texto li {
         font-size:40px ;
         color: black;
         padding-left: 25px;
-        padding-right:35px;
         padding-top: 35px;
         list-style: disc;
         background-color: #ffddd2;
