@@ -191,7 +191,7 @@ img{
         background-color: #ffc2d1;
         font-size: 50px;
         padding: 15px;
-        width: 1500px;
+        width: 1840px;
     }
     
     p {
@@ -207,13 +207,15 @@ img{
         color: black;
         padding-left: 75px;
         padding-right: 35px;
-        padding-top: 35px;
+        padding-top: 160px;
         list-style: disc;
         background-color: #ffddd2;
+        width: 1200px;
     }
 
     .texto{
         padding-left: 150px;
+        padding-bottom: 200px;
     }
     
     .pesquisa:hover {
@@ -228,7 +230,6 @@ img{
     img{
         margin-top: 30px;
         width: 400px;
-        /* height: 500px; */
     }
 
     .imagens {
