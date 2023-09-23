@@ -128,13 +128,16 @@ img{
     }
     
     img{
-        width: 3000px;
-        height: 1200px;
+        width: 600px;
+        height: 800px;
+        display: flex;
     }
+
     .informações{
         padding-top: 20px;
         padding-left: 30px;
-        
+        display: flex ;
+        flex-direction: column;
     }
     
     p{
@@ -145,6 +148,14 @@ img{
         padding-left: 500px;
     }
     
+    .texto li {
+        color: black;
+        margin-left: 60px;
+        padding-left: 25px;
+        padding-right:35px;
+        padding-top: 35px;
+    }
+
     footer{
         font-size: 30px;
         background-color: #ffc2d1;
