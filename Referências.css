@@ -126,11 +126,14 @@ img{
         background-color: #ffddd2;
     }
     
+    img{
+        width: 3000px;
+        height: 1300px;
+    }
     .informações{
         padding-top: 20px;
         padding-left: 30px;
-        width: 2000px;
-        height: 7000px;
+        
     }
     
     p{
