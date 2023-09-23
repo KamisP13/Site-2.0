@@ -84,14 +84,13 @@ footer {
     align-items: center; 
 }
 
-footer p {
-    margin: 0; 
-}
 
 p {
     padding-top: 25px;
     font-size: 45px;
     color: rgb(245, 66, 161);
+    width: 100%;
+    text-align: center;
 }
 
 .texto li {
@@ -208,23 +207,22 @@ img {
     footer {
         font-size: 20px;
         padding: 15px;
-        margin-top: 40px;
+        margin-top: 200px;
     }
     
     p {
         padding-top: 45px;
         font-size: 90px;
         color: rgb(245, 66, 161);
+        width:  100%;
+        text-align: center;
     }
     
     .texto li {
         font-size: 28px;
         color: black;
-        margin-left: 60px;
         padding-left: 40px;
-        padding-right: 35px;
         padding-top: 80px;
-        list-style: disc;
         background-color: #ffddd2;
     }
     
@@ -246,8 +244,8 @@ img {
     img {
         width: 800px;
         height: 900px;
-        padding-left: 30px;
-        padding-top: 10px;
+        padding-left: 80px;
+        padding-top: 50px;
         
     }
     .imagens{
