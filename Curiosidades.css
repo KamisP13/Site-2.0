@@ -97,8 +97,6 @@ p{
 }
 
 img{
-    width: 100%;
-    height: 80%;
     padding-left: 30px;
     padding-top: 15px;
 }
@@ -228,11 +226,12 @@ img{
     }
     
     img{
-        width: 720px;
-       height: 1300px;
+        margin-top: 30px;
+        width: 400px;
+        /* height: 500px; */
     }
-    .imagens {
 
+    .imagens {
         padding-left: 30px;
         padding-top: 70px;
     }
