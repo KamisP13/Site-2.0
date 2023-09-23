@@ -58,7 +58,7 @@ a{
     width: 100%;
     text-decoration: none;
     display: flex;
-    background-color:#ffc2d1;
+    
 }
 
 li{
@@ -117,6 +117,7 @@ h3{
 
 
     @media screen and (max-width: 720px){
+
         body{
             background-color: #ffddd2;
         }
@@ -134,7 +135,7 @@ h3{
         
         .p1{
             padding-left: 650px;
-            font-size: 30px;
+            font-size: 60px;
             padding-top: 0px;
             display: flex;
         }
@@ -157,10 +158,11 @@ h3{
         }
         
         footer{
-            background-color:#ffc2d1;
-            font-size: 20px;
-            padding: 15px;
-            margin-top: 40px;
+            
+            font-size: 80px;
+            display: flex;
+            padding-right: 0%;
+            background-color: #ffc2d1;
         }
         
         a{
@@ -173,7 +175,7 @@ h3{
             width: 100%;
             text-decoration: none;
             display: flex;
-            background-color:#ffc2d1;
+            
         }
         
         li{
@@ -186,6 +188,8 @@ h3{
             color: rgb(239, 248, 255);
             padding-left: 560px;
             font-size: 55px; 
+            background-color: #ffc2d1;
+            height: 70%;
         }
         
         h3{
