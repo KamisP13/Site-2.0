@@ -182,6 +182,7 @@ h3{
         li{
             list-style: none;
             background-color:#e2fdff;
+        ;
         }
         
         h1{
@@ -202,6 +203,7 @@ h3{
         
         .item1{
             padding-left: 160px;
+            font-size: 50px;
         }
         
         .item1:hover{
@@ -210,7 +212,7 @@ h3{
         
         .item2{
             padding-left: 180px;
-        
+            font-size: 50px;
         }
         
         .item2:hover{
@@ -219,7 +221,7 @@ h3{
         
         .item3{
             padding-left: 200px;
-        
+            font-size: 50px;
         }
         
         .item3:hover{
@@ -229,6 +231,7 @@ h3{
         .item4{
             padding-left: 230px;
             padding-right: 223px;
+            font-size: 50px;
         }
         
         .item4:hover{
