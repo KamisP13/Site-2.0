@@ -42,7 +42,7 @@ p{
 }
 
 footer{
-    background-color:#ffc2d1;
+    
     font-size: 20px;
     padding: 15px;
     margin-top: 40px;
@@ -160,9 +160,8 @@ h3{
         
         footer{
             
-            font-size: 80px;
+            font-size: 60px;
             display: flex;
-            padding-right: 0%;
             background-color: #ffc2d1;
         }
         
@@ -202,7 +201,7 @@ h3{
         }
         
         .item1{
-            padding-left: 160px;
+            padding-left: 80px;
             font-size: 50px;
         }
         
@@ -220,7 +219,7 @@ h3{
         }
         
         .item3{
-            padding-left: 200px;
+            padding-left: 180px;
             font-size: 50px;
         }
         
@@ -229,7 +228,7 @@ h3{
         }
         
         .item4{
-            padding-left: 230px;
+            padding-left: 120px;
             padding-right: 223px;
             font-size: 50px;
         }
