@@ -134,7 +134,7 @@ img{
     }
 
     .informações{
-        padding-top: 20px;
+        padding-top: 40px;
         padding-left: 30px;
         display: flex ;
         flex-direction: column;
@@ -149,11 +149,17 @@ img{
     }
     
     .texto li {
+        font-size:50px ;
         color: black;
         margin-left: 60px;
         padding-left: 25px;
         padding-right:35px;
         padding-top: 35px;
+    }
+
+    .Links{
+        display: flex;
+        flex-direction: column;
     }
 
     footer{

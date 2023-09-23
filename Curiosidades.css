@@ -129,15 +129,18 @@ img{
     img{
         padding-top: 20px;
         padding-left: 30px;
-        width: 2000%;
-        height: 500%;
+        width: 500px;
+        height: 1000px;
     }
     
-    .p1{
-        padding-left: 650px;
-        font-size: 60px;
-        padding-top: 0px;
-        display: flex;
+    .texto li {
+        font-size:40px ;
+        color: black;
+        padding-left: 25px;
+        padding-right:35px;
+        padding-top: 35px;
+        list-style: disc;
+        background-color: #ffddd2;
     }
     
     p{
@@ -149,8 +152,6 @@ img{
     .imagens{
         display: flex;
         flex-direction: column;
-        width: 28%;
-        height: 20%;
     }
     
     .texto-rosa{
