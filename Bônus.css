@@ -133,13 +133,6 @@ img{
 
 @media screen and (max-width: 720px) {
     
-    * {
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    }
-    
     body {
         background-color: #ffddd2;
     }
@@ -165,8 +158,8 @@ img{
     h1 {
         width: 100%;
         color: rgb(239, 248, 255);
-        padding-left: 620px;
-        font-size: 55px;
+        padding-left: 680px;
+        font-size: 150px;
         background-color: #ffc2d1;
     }
     
@@ -174,10 +167,12 @@ img{
         display: flex;
         margin-top: 0px;
         width: 100%;
+        font-size: 80px;
     }
     
     .item1 {
-        padding-left: 160px;
+        padding-left: 240px;
+        font-size: 50px;
     }
     
     .item1:hover {
@@ -186,6 +181,7 @@ img{
     
     .item2 {
         padding-left: 182px;
+        font-size: 50px;
     }
     
     .item2:hover {
@@ -194,6 +190,7 @@ img{
     
     .item3 {
         padding-left: 200px;
+        font-size: 50px;
     }
     
     .item3:hover {
@@ -203,54 +200,67 @@ img{
     .item4 {
         padding-left: 230px;
         padding-right: 234px;
+        font-size: 50px;
     }
     
     .item4:hover {
         color: #f08080;
     }
     
+    
     footer {
         background-color: #ffc2d1;
         font-size: 20px;
         padding: 15px;
         margin-top: 40px;
+        width:1385px;
     }
     
     p {
-        padding-top: 25px;
-        font-size: 45px;
+        padding-top: 90px;
+        font-size: 70px;
         color: rgb(245, 66, 161);
-    }
-    
-    .texto li {
-        font-size: 28px;
-        color: black;
-        margin-left: 60px;
-        padding-left: 25px;
-        padding-right: 35px;
-        padding-top: 35px;
-        list-style: disc;
-        background-color: #ffddd2;
-    }
-    
-    .pesquisa {
-        font-size: 45px;
-        color: rgb(33, 30, 32);
-    }
-    
-    .pesquisa:hover {
-        color: #c9184a;
-    }
-    
-    .informações {
-        display: flex;
-        padding-top: 45px;
+        width: 2000px;
+        padding-left: 100px;
     }
     
     img {
-        width: 30%;
-        height: 10%;
-        padding-left: 30px;
-        padding-top: 10px;
+        width: 400px;
+        height:600px;
+        padding-left: 80px;
+        margin-top: 200px;
+    }
+
+    .texto{
+        font-size:40px ;
+        color: black;
+        padding-left: 100px;
+        margin-right:60px;
+        padding-top: 110px;
+    }
+    .conteúdo{
+        width: 2000px;
+    }
+
+    .Título{
+        font-size: 70px;
+        color:rgb(245, 66, 161) ;
+    }
+    
+    .songs{
+        width: 1800px;
+        height: 500px;
+        padding-left: 80px;
+    }
+
+    .texto1{
+        font-size:40px ;
+        color: black;
+        padding-left: 100px;
+        padding-top: 100px;
+    }
+
+    .músicas p{
+    width: 5000px;
     }
 }
