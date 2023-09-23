@@ -132,6 +132,7 @@ img {
     
     body {
         background-color: #ffddd2;
+        width: 100%;
     }
     
     a {
@@ -205,7 +206,6 @@ img {
     }
     
     footer {
-        
         font-size: 20px;
         padding: 15px;
         margin-top: 40px;
@@ -221,16 +221,17 @@ img {
         font-size: 28px;
         color: black;
         margin-left: 60px;
-        padding-left: 25px;
+        padding-left: 40px;
         padding-right: 35px;
-        padding-top: 35px;
+        padding-top: 80px;
         list-style: disc;
         background-color: #ffddd2;
     }
     
-    .pesquisa {
-        font-size: 45px;
+    .pesquisa  {
+        font-size: 90px;
         color: rgb(33, 30, 32);
+        padding-left: 10px;
     }
     
     .pesquisa:hover {
@@ -258,4 +259,15 @@ img {
         max-height: 100%;
         margin-right:0px;
     }
+
+    .titulo{
+    text-align: center;
+    display: contents;
+    }
+    
+    .texto{
+        font-size: 200px;
+    }
+
+
 }
