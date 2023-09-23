@@ -67,15 +67,16 @@ li{
 }
 
 h1{
-    width: 100%;
+    width: 10px;
     color: rgb(239, 248, 255);
     padding-left: 560px;
-    font-size: 55px; 
+    font-size: 100%; 
+    background-color: #ffc2d1;
 }
 
 h3{
     display: flex;
-    padding-top: 15px;
+    padding-top: 0px;
     width: 100%;
 }
 
@@ -116,7 +117,7 @@ h3{
 
 
 
-    @media screen and (max-width: 720px){
+    @media screen and (max-width: 500px){
 
         body{
             background-color: #ffddd2;
@@ -194,7 +195,7 @@ h3{
         
         h3{
             display: flex;
-            padding-top: 15px;
+            padding-top: 0px;
             width: 100%;
         }
         
