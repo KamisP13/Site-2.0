@@ -77,7 +77,9 @@ h3{
 
 footer{
     background-color:#ffc2d1;
-    font-size: 20px;
+    font-size: 30px;
+    margin-top: 50px;
+    padding-left: 50px;
     padding: 15px;
 }
 
@@ -101,11 +103,11 @@ img{
     padding-left: 30px;
     padding-top: 15px;
 }
+
 .texto li {
-    font-size:28px ;
+    font-size:48px ;
     color: black;
-    margin-left: 60px;
-    padding-left: 25px;
+    margin-left: 90px;
     padding-right:35px;
     padding-top: 35px;
     list-style: disc;
