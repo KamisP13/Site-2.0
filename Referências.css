@@ -40,6 +40,9 @@ h1 {
 h3 {
     display: flex;
     width: 100%;
+    background-color:#e2fdff;
+    height: 45px;
+    padding-top: 6px;
 }
 
 .item1 {
@@ -123,6 +126,7 @@ img {
     height: 500px;
     padding-left: 60px;
     padding-top: 10px;
+    border-radius: 85px 50px 50px 85px;
 }
 
 .imagens{
@@ -253,8 +257,9 @@ img {
         height: 800px;
         padding-left: 80px;
         padding-top: 50px;
-        
+        border-radius: 60px 50px 50px 60px;
     }
+
     .imagens{
         display: flex;
         flex-direction: column;

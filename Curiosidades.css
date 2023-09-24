@@ -23,7 +23,6 @@ a{
 
 li{
     list-style: none;
-    background-color:#e2fdff;
     padding-right: 23px;
 }
 
@@ -38,6 +37,10 @@ h1{
 h3{
     display: flex;
     width: 100%;
+    background-color:#e2fdff;
+    height: 45px;
+    padding-top: 6px;
+    
 }
 
 .item1{
@@ -102,6 +105,8 @@ p{
 img{
     padding-left: 30px;
     padding-top: 15px;
+    border-radius: 60px 50px 50px 60px;
+    
 }
 
 .texto li {
@@ -234,6 +239,7 @@ img{
     img{
         margin-top: 30px;
         width: 400px;
+        border-radius: 60px 50px 50px 60px;
     }
 
     .imagens {
