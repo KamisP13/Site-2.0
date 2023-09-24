@@ -70,6 +70,7 @@ h1{
     color: rgb(239, 248, 255);
     padding-left: 560px;
     font-size: 55px; 
+    background-color: #ffc2d1;
 }
 
 h3{
@@ -197,10 +198,6 @@ h3{
         padding-left: 100px;
     }
     
-    p {
-        padding-top: 25px;
-        font-size: 45px;
-    }
     
     .texto-rosa{
         color:rgb(245, 66, 161) ;
@@ -215,4 +212,11 @@ h3{
         padding-left: 30px;
         padding-top: 10px;
     }
+
+    .p1{
+        padding-left: 330px;
+        font-size: 30px;
+        padding-top: 0px;
+    }
+    
 }
