@@ -239,7 +239,7 @@ h3{
 
     .p1{
         font-size: 30px;
-        padding-top: 400px; 
+        padding-top: 80px; 
     }
 
     .citacao{
@@ -247,6 +247,11 @@ h3{
         color: #f08080;
         padding-top: 50px;
         width: 100%;
+    }
+
+    .tudo{
+        display: flex;
+        flex-direction: column;
     }
 
 }
