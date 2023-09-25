@@ -136,6 +136,12 @@ img{
     padding-top: 30px;
 }
 
+.citacao{
+    font-size: 30px;
+    color: #f08080;
+    padding-left: 50px;
+}
+
 @media screen and (max-width: 720px) {
     
     body {
@@ -158,6 +164,7 @@ img{
         list-style: none;
         background-color: #e2fdff;
         padding-right: 18px;
+        height: 100px;
     }
     
     h1 {
@@ -268,5 +275,12 @@ img{
 
     .músicas {
     width: 1800px;
+    }
+
+    .citacao{
+        font-size: 50px;
+        color: #f08080;
+        padding-left: 50px;
+        padding-top: 70px;
     }
 }
