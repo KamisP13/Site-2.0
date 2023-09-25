@@ -106,7 +106,7 @@ img{
     padding-left: 30px;
     padding-top: 15px;
     border-radius: 60px 50px 50px 60px;
-    
+    width: 500px;
 }
 
 .texto li {
@@ -123,6 +123,11 @@ img{
     font-size: 30px;
     color: #f08080;
     padding-left: 50px;
+}
+
+.tudo{
+    display: flex;
+    flex-direction: row;
 }
 
 @media screen and (max-width: 720px) {
