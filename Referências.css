@@ -215,6 +215,7 @@ img {
     .item4:hover {
         color: #f08080;
     }
+
     footer {
         background-color: #ffc2d1;
         font-size: 30px;
@@ -223,6 +224,7 @@ img {
         width:490px;
         padding-left: 50px;
     }
+    
     p {
         padding-top: 75px;
         font-size: 35px;
