@@ -166,32 +166,30 @@ p{
         text-decoration: none;
         display: flex;
     }
-    
+
     li {
         list-style: none;
         background-color: #e2fdff;
-        padding-right: 18px;
-        height: 100px;
+        height: 50px;
+        width: 121px;
     }
     
     h1 {
-        width: 100%;
+        padding-left: 150px;
         color: rgb(239, 248, 255);
-        padding-left: 690px;
-        font-size: 150px;
+        font-size: 60px;
         background-color: #ffc2d1;
+        width: 484px;
     }
     
     h3 {
         display: flex;
-        margin-top: 0px;
-        width: 100%;
-        font-size: 80px;
+        font-size: 30px;
     }
     
     .item1 {
-        padding-left: 240px;
-        font-size: 50px;
+        font-size: 20px;
+        padding-left: 15px;
     }
     
     .item1:hover {
@@ -199,8 +197,8 @@ p{
     }
     
     .item2 {
-        padding-left: 182px;
-        font-size: 50px;
+        font-size: 20px;
+        padding-left: 0px;
     }
     
     .item2:hover {
@@ -208,8 +206,8 @@ p{
     }
     
     .item3 {
-        padding-left: 200px;
-        font-size: 50px;
+        font-size: 20px;
+        padding-left: 30px;
     }
     
     .item3:hover {
@@ -217,22 +215,21 @@ p{
     }
     
     .item4 {
-        padding-left: 230px;
-        padding-right: 234px;
-        font-size: 50px;
+        font-size: 20px;
+        padding-left: 0px;
     }
     
     .item4:hover {
         color: #f08080;
     }
-
+    
     footer {
         background-color: #ffc2d1;
-        font-size: 50px;
+        font-size: 30px;
         padding: 15px;
-        margin-top: 40px;
-        width:2005px;
-        padding-left: 100px;
+        margin-top: 100px;
+        width:490px;
+        padding-left: 50px;
     }
     
     p {
@@ -241,9 +238,9 @@ p{
     }
     
     img {
-        width: 500px;
-        height: 500px;
-        padding-left: 30px;
+        width:400px;
+        height: 300px;
+        padding-left: 100px;
         margin-top: 50px;
         border-radius: 60px 50px 50px 60px;
     }
@@ -251,35 +248,38 @@ p{
     .classe1{
         color:rgb(245, 66, 161) ;
         padding-left: 90px;
-        font-size: 60px;
-    }
-    
-    .classe2{
-        color:rgb(245, 66, 161) ;
-        padding-left: 105px;
-        font-size: 60px;
-    }
-    
-    .classe3{
-        color:rgb(245, 66, 161) ;
-        padding-left: 160px;
-        font-size: 60px;
-    }
-    
-    .p1{
-        padding-top: 50px;
-        padding-left: 110px;
         font-size: 40px;
     }
 
+    .classe2{
+        color:rgb(245, 66, 161) ;
+        padding-left: 100px;
+        font-size: 40px;
+    }
+    
+    .classe3{
+            color:rgb(245, 66, 161) ;
+            padding-left: 150px;
+            font-size: 40px;
+        }
+    
+    .p1{
+        padding-top: 50px;
+        padding-left: 25px;
+        font-size: 30px;
+        width: 500px;
+    }
+
     .album-texto{
-        width:1800px;
+        display: flex;
+        flex-direction: column;
     }
 
     .citacao{
-        font-size: 50px;
+        font-size: 25px;
         color: #f08080;
-        width: 1700px;
+        padding-top: 50px;
+        width: 100%;
+        padding-left: 15px;
     }
-    
 }
