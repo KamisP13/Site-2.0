@@ -235,7 +235,7 @@ img{
     
     img {
         padding-left:150px;
-        border-radius: 60px 50px 50px 60px;
+        border-radius: 160px 50px 30px 160px;
         width: 350px;
     }
 
@@ -257,6 +257,7 @@ img{
         height: 500px;
         padding-top: 50px;
         padding-left: 80px;
+        border-radius: 110px 70px 30px 95px;
     }
 
     .texto1{
