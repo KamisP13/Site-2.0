@@ -152,7 +152,7 @@ img{
         list-style: none;
         background-color: #e2fdff;
         height: 50px;
-        width: 125px;
+        width: 128px;
     }
     
     h1 {
@@ -160,7 +160,7 @@ img{
         color: rgb(239, 248, 255);
         font-size: 60px;
         background-color: #ffc2d1;
-        width: 500px;
+        width: 510px;
     }
     
     h3 {
@@ -173,8 +173,6 @@ img{
         font-size: 20px;
         padding: 11%;
     }
-    
-    
     
     .item2 {
         font-size: 20px;
