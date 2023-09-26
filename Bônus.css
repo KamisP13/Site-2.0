@@ -156,7 +156,6 @@ img{
     }
     
     .cabecalho {
-        width: 100%;
         text-decoration: none;
         display: flex;
     }
@@ -165,7 +164,7 @@ img{
         list-style: none;
         background-color: #e2fdff;
         height: 50px;
-        width: 134px;
+        width: 50%;
     }
     
     h1 {
@@ -173,7 +172,7 @@ img{
         color: rgb(239, 248, 255);
         font-size: 60px;
         background-color: #ffc2d1;
-        width: 535px;
+        width: 500px;
     }
     
     h3 {
@@ -183,17 +182,17 @@ img{
     
     .item1 {
         font-size: 20px;
-        padding: 2px;
+        padding: 13%;
     }
     
     
     
     .item2 {
         font-size: 20px;
-        padding: 2%;
+        padding: 1%;
     }
     
-   
+    
     .item3 {
         font-size: 20px;
         padding: 2%;
@@ -202,9 +201,10 @@ img{
     
     .item4 {
         font-size: 20px;
-        padding: 2%;
+        padding: 18%;
     }
     
+
     
     footer {
         background-color: #ffc2d1;
@@ -220,7 +220,7 @@ img{
         font-size: 33px;
         color: rgb(245, 66, 161);
         width: 2000px;
-        padding-left: 15px;
+        padding: 4%;
     }
     
     img {
