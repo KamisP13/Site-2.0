@@ -183,39 +183,28 @@ img{
     
     .item1 {
         font-size: 20px;
-        padding-left: 15px;
+        padding: 2px;
     }
     
-    .item1:hover {
-        color: #f08080;
-    }
+    
     
     .item2 {
         font-size: 20px;
-        padding-left: 0px;
+        padding: 2%;
     }
     
-    .item2:hover {
-        color: #f08080;
-    }
-    
+   
     .item3 {
         font-size: 20px;
-        padding-left: 0px;
+        padding: 2%;
     }
     
-    .item3:hover {
-        color: #f08080;
-    }
     
     .item4 {
         font-size: 20px;
-        padding-left: 8px;
+        padding: 2%;
     }
     
-    .item4:hover {
-        color: #f08080;
-    }
     
     footer {
         background-color: #ffc2d1;
