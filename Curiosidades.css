@@ -152,7 +152,7 @@ img{
         list-style: none;
         background-color: #e2fdff;
         height: 50px;
-        width: 128px;
+        width: 125px;
     }
     
     h1 {
@@ -160,7 +160,7 @@ img{
         color: rgb(239, 248, 255);
         font-size: 60px;
         background-color: #ffc2d1;
-        width: 510px;
+        width: 500px;
     }
     
     h3 {
@@ -171,39 +171,29 @@ img{
     
     .item1 {
         font-size: 20px;
-        padding-left: 15px;
+        padding: 11%;
     }
     
-    .item1:hover {
-        color: #f08080;
-    }
+    
     
     .item2 {
         font-size: 20px;
-        padding-left: 0px;
+        padding: 0%;
     }
     
-    .item2:hover {
-        color: #f08080;
-    }
     
     .item3 {
         font-size: 20px;
-        padding-left: 0px;
+        padding: 0%;
     }
     
-    .item3:hover {
-        color: #f08080;
-    }
     
     .item4 {
         font-size: 20px;
-        padding-left: 20px;
+        padding: 13%;
     }
     
-    .item4:hover {
-        color: #f08080;
-    }
+
     
     footer {
         background-color: #ffc2d1;
